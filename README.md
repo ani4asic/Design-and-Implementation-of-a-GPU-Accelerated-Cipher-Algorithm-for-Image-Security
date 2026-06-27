@@ -1,1 +1,1 @@
-# 2.-Design-and-Implementation-of-a-GPU-Accelerated-Cipher-Algorithm-for-Image-Security
+# Design-and-Implementation-of-a-GPU-Accelerated-Cipher-Algorithm-for-Image-Security
