@@ -229,8 +229,9 @@ The decrypted image matched the original input image, validating the correctness
 
 ```
 .
-├── Project_Work_2_Final_Report.pdf
+├── Project_Report.pdf
 └── README.md
+
 ```
 
 The repository currently contains the complete project report describing the system architecture, encryption methodology, FPGA implementation, GPU acceleration, ESP32 communication framework, implementation details, experimental results, and performance evaluation.
